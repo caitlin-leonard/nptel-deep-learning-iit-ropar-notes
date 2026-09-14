@@ -25,7 +25,3 @@ Made by [Caitlin Leonard](https://github.com/caitlin-leonard)
 | Week 12 | [View Notes](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/caitlin-leonard/nptel-deep-learning-iit-ropar-notes/main/DeepLearning_Week12_Notes.pdf) |
 
 ---
-
-## License
-These notes are licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
-Free to use and share with attribution.
