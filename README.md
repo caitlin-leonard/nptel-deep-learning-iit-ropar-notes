@@ -25,3 +25,12 @@ Made by [Caitlin Leonard](https://github.com/caitlin-leonard)
 | Week 12 | [View Notes](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/caitlin-leonard/nptel-deep-learning-iit-ropar-notes/main/DeepLearning_Week12_Notes.pdf) |
 
 ---
+
+**Course:** Deep Learning
+**Offered by:** IIT Ropar
+**Instructor:** Prof. Sudarshan Iyengar
+**Course Link:** [NPTEL Course Page](https://onlinecourses.nptel.ac.in/e-learning/preview/noc26_cs138)
+
+## License
+These notes are released under [The Unlicense](https://unlicense.org/).
+Free to use, share, and adapt — no attribution required.
