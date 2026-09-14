@@ -4,6 +4,7 @@ Concise, exam-focused weekly revision notes including all the assignments syllab
 
 Made by [Caitlin Leonard](https://github.com/caitlin-leonard)
 
+![Sample Notes Preview](img/sample-preview.png)
 ---
 
 ## Notes
