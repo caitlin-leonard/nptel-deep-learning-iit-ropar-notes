@@ -1,6 +1,6 @@
 # NPTEL Deep Learning — IIT Ropar Revision Notes
 
-Concise, exam-focused weekly revision notes for the NPTEL Deep Learning course by IIT Ropar.
+Concise, exam-focused weekly revision notes including all the assignments syllabus for the NPTEL Deep Learning course by IIT Ropar. 
 
 Made by [Caitlin Leonard](https://github.com/caitlin-leonard)
 
